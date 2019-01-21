@@ -1,0 +1,11 @@
+E:\exercise\发送邮件\PythonSendEmail\ConsoleSendEmail\bin\Debug\netcoreapp2.1\ConsoleSendEmail.deps.json
+E:\exercise\发送邮件\PythonSendEmail\ConsoleSendEmail\bin\Debug\netcoreapp2.1\ConsoleSendEmail.runtimeconfig.json
+E:\exercise\发送邮件\PythonSendEmail\ConsoleSendEmail\bin\Debug\netcoreapp2.1\ConsoleSendEmail.runtimeconfig.dev.json
+E:\exercise\发送邮件\PythonSendEmail\ConsoleSendEmail\bin\Debug\netcoreapp2.1\ConsoleSendEmail.dll
+E:\exercise\发送邮件\PythonSendEmail\ConsoleSendEmail\bin\Debug\netcoreapp2.1\ConsoleSendEmail.pdb
+E:\exercise\发送邮件\PythonSendEmail\ConsoleSendEmail\obj\Debug\netcoreapp2.1\ConsoleSendEmail.csprojAssemblyReference.cache
+E:\exercise\发送邮件\PythonSendEmail\ConsoleSendEmail\obj\Debug\netcoreapp2.1\ConsoleSendEmail.csproj.CoreCompileInputs.cache
+E:\exercise\发送邮件\PythonSendEmail\ConsoleSendEmail\obj\Debug\netcoreapp2.1\ConsoleSendEmail.AssemblyInfoInputs.cache
+E:\exercise\发送邮件\PythonSendEmail\ConsoleSendEmail\obj\Debug\netcoreapp2.1\ConsoleSendEmail.AssemblyInfo.cs
+E:\exercise\发送邮件\PythonSendEmail\ConsoleSendEmail\obj\Debug\netcoreapp2.1\ConsoleSendEmail.dll
+E:\exercise\发送邮件\PythonSendEmail\ConsoleSendEmail\obj\Debug\netcoreapp2.1\ConsoleSendEmail.pdb
